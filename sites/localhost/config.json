@@ -1,0 +1,10 @@
+{
+  "theme":"generic",
+  "title":"A Website",
+  "logo":"/location.png",
+  "company":"A Company",
+  "navs":{
+    "header":["home_page","about","blog","gallery","contact_us"],
+    "footer":["site_map","privacy_policy"]
+  }
+}

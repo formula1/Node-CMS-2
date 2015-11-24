@@ -1,0 +1,25 @@
+{
+  "name": "generic-webiste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "core/server/proxy-server",
+  "scripts": {
+    "start": "node index",
+    "postinstall": "node core/install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "formula1 <samtobia@gmail.com> (https://github.com/formula1)",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "babelify": "^6.3.0",
+    "bouncy": "^3.2.2",
+    "browserify": "^11.2.0",
+    "express": "^4.13.3",
+    "literalify": "^0.4.0",
+    "mongodb": "^2.0.45",
+    "react": "^0.13.3",
+    "renameify": "^0.3.0",
+    "split": "^1.0.0"
+  }
+}
